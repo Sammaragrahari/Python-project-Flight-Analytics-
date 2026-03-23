@@ -1,2 +1,2 @@
-# Python Project – Flight & Route Analytics
+# Python Project – Flight Price & Route Analytics
 Analyzed and processed structured datasets using Python to extract actionable business insights. Performed data cleaning, preprocessing, and exploratory data analysis (EDA) to ensure data quality and consistency. Leveraged Pandas and NumPy for efficient data manipulation and applied Matplotlib for visualizing trends and patterns. Delivered clear, structured analysis to support data-driven decision-making.
